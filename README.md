@@ -1,0 +1,1 @@
+# Golang code generator - skeleton
